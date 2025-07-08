@@ -1,2 +1,10 @@
-# text-summarizer
- AI Text Summarizer is a Flask API using Hugging Face Transformers to generate short summaries from long text. Powered by distilbart-cnn-12-6, it’s easy to run, extend, and connect to any frontend app.
+# 🧠 AI Text Summarizer
+
+A simple Flask API that uses HuggingFace Transformers to summarize text using a pre-trained NLP model.
+
+## 🚀 How to run
+
+1. Clone the repo:
+```bash
+git clone https://github.com/YOUR_USERNAME/text-summarizer.git
+cd text-summarizer
